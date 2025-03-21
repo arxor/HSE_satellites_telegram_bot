@@ -1,4 +1,5 @@
 # Telegram-бот для отслеживания спутников НИУ ВШЭ
+![Telegram_9IVQ0AjtPV](https://github.com/user-attachments/assets/82f61e7f-fb9d-403e-a103-10e0326db19f)
 
 Этот бот предназначен для удобного отслеживания пролётов спутника НИУ ВШЭ **CubeSX-HSE 3**. Он позволяет:
 
